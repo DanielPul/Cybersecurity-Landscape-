@@ -8,7 +8,7 @@ Okta\
 Netskope\
 Check Point\
 Palo Alto\
-Crowstrike\ 
+Crowstrike\
 Proofpoint\
 Darktrace\
 Sonicwall\
