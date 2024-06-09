@@ -9,7 +9,7 @@ Netskope\
 Check Point\
 Palo Alto\
 Crowstrike\ 
-Proofpoint\ 
+Proofpoint\
 Darktrace\
 Sonicwall\
 F5\
